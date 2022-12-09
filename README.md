@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Decodedal
-- 👀 I’m interested in ... Music, right now im focused on learning to code
-- 🌱 I’m currently learning ... React.js Node.js 
+- 👀 I’m interested in ... React, next.js and python
+- 🌱 I’m currently learning ... Data science algorithems and sorting methodes 
 - 💞️ I’m looking to collaborate on ... projects to keep things intresting
 - 📫 How to reach me ...
 
