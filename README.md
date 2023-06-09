@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Decodedal
-- 👀 I’m interested in ... React, next.js and python
+- 👀 I’m interested in ... React, next.js and php
 - 🌱 I’m currently learning ... Data science algorithems and sorting methodes 
 - 💞️ I’m looking to collaborate on ... projects to keep things intresting
 - 📫 How to reach me ...
